@@ -1,0 +1,5 @@
+D:\Projects\DocumentChecker\DocumentChecker\DocumentChecker.BusinessLogic\bin\Debug\DocumentChecker.BusinessLogic.dll.config
+D:\Projects\DocumentChecker\DocumentChecker\DocumentChecker.BusinessLogic\bin\Debug\DocumentChecker.BusinessLogic.dll
+D:\Projects\DocumentChecker\DocumentChecker\DocumentChecker.BusinessLogic\bin\Debug\DocumentChecker.BusinessLogic.pdb
+D:\Projects\DocumentChecker\DocumentChecker\DocumentChecker.BusinessLogic\obj\Debug\DocumentChecker.BusinessLogic.dll
+D:\Projects\DocumentChecker\DocumentChecker\DocumentChecker.BusinessLogic\obj\Debug\DocumentChecker.BusinessLogic.pdb

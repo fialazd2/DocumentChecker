@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentChecker.UI", "DocumentChecker.UI\DocumentChecker.UI.csproj", "{788DA065-CA3E-4E66-8EAD-2AE927596B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentChecker.Models", "DocumentChecker.BusinessLogic\DocumentChecker.Models.csproj", "{361557D3-F6A0-4B92-BAEA-0170F7E9D2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788DA065-CA3E-4E66-8EAD-2AE927596B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788DA065-CA3E-4E66-8EAD-2AE927596B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788DA065-CA3E-4E66-8EAD-2AE927596B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788DA065-CA3E-4E66-8EAD-2AE927596B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361557D3-F6A0-4B92-BAEA-0170F7E9D2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361557D3-F6A0-4B92-BAEA-0170F7E9D2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361557D3-F6A0-4B92-BAEA-0170F7E9D2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361557D3-F6A0-4B92-BAEA-0170F7E9D2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3C9089-CD06-4964-848C-28CBFDE7D609}
+	EndGlobalSection
+EndGlobal
